@@ -1,0 +1,178 @@
+{
+  "timestamp": "2025-09-07T12:08:14.812163",
+  "domain": "www.tln-werbemittel.de",
+  "homepage_analysis": {
+    "url": "https://www.tln-werbemittel.de",
+    "status_code": 503,
+    "response_time": 5.156101,
+    "page_size": 299,
+    "encoding": "iso-8859-1",
+    "title": "503 Service Unavailable",
+    "title_length": 23,
+    "meta_description": null,
+    "meta_description_length": 0,
+    "meta_keywords": null,
+    "canonical_url": null,
+    "language": null,
+    "h1_tags": [
+      "Service Unavailable"
+    ],
+    "h2_tags": [],
+    "h3_tags": [],
+    "total_images": 0,
+    "images_without_alt": 0,
+    "internal_links": 0,
+    "external_links": 0,
+    "total_links": 0,
+    "open_graph_tags": {},
+    "schema_markup_count": 0,
+    "viewport_meta": null
+  },
+  "robots_txt": {
+    "exists": true,
+    "content": "User-agent: *\nDisallow: /admin/\nDisallow: /Core/\nDisallow: /tmp/\nDisallow: /views/\nDisallow: /Setup/\nDisallow: /log/\n\nDisallow: /EXCEPTION_LOG.txt\n\n\nSitemap: https://www.tln-werbemittel.de/export/sitemap_de.xml\nSitemap: https://www.tln-werbemittel.de/export/sitemap_en.xml"
+  },
+  "sitemaps": [
+    {
+      "url": "https://www.tln-werbemittel.de/export/sitemap_de.xml",
+      "exists": true,
+      "size": 234
+    }
+  ],
+  "ssl_certificate": {
+    "ssl_enabled": true,
+    "issuer": {
+      "countryName": "US",
+      "organizationName": "Google Trust Services",
+      "commonName": "WE1"
+    },
+    "expires": "Nov 23 22:11:05 2025 GMT"
+  },
+  "dns_records": {
+    "a_records": [
+      "104.26.8.66",
+      "104.26.9.66",
+      "172.67.69.81"
+    ],
+    "mx_records": [],
+    "txt_records": []
+  },
+  "domain_info": {
+    "registrar": null,
+    "creation_date": null,
+    "expiration_date": null,
+    "name_servers": [
+      "edward.ns.cloudflare.com",
+      "tina.ns.cloudflare.com"
+    ]
+  },
+  "additional_pages": [
+    {
+      "url": "https://www.tln-werbemittel.de/impressum",
+      "status_code": 503,
+      "response_time": 5.145381,
+      "page_size": 299,
+      "encoding": "iso-8859-1",
+      "title": "503 Service Unavailable",
+      "title_length": 23,
+      "meta_description": null,
+      "meta_description_length": 0,
+      "meta_keywords": null,
+      "canonical_url": null,
+      "language": null,
+      "h1_tags": [
+        "Service Unavailable"
+      ],
+      "h2_tags": [],
+      "h3_tags": [],
+      "total_images": 0,
+      "images_without_alt": 0,
+      "internal_links": 0,
+      "external_links": 0,
+      "total_links": 0,
+      "open_graph_tags": {},
+      "schema_markup_count": 0,
+      "viewport_meta": null
+    },
+    {
+      "url": "https://www.tln-werbemittel.de/datenschutz",
+      "status_code": 200,
+      "response_time": 1.72721,
+      "page_size": 454719,
+      "encoding": "UTF-8",
+      "title": "Datenschutz",
+      "title_length": 11,
+      "meta_description": "Datenschutz",
+      "meta_description_length": 11,
+      "meta_keywords": "datenschutz",
+      "canonical_url": "https://www.tln-werbemittel.de/datenschutz/",
+      "language": "de",
+      "h1_tags": [
+        "Datenschutzerklärung der Websitehttps://www.tln-werbemittel.de"
+      ],
+      "h2_tags": [],
+      "h3_tags": [
+        "Budgetsuche",
+        "A.\tAllgemeiner Teil",
+        "I.\tAllgemeine Information über die Erhebung personenbezogener Daten",
+        "II.\tKontaktdaten des datenschutzrechtlich Verantwortlichen",
+        "III.\tIhre Rechte",
+        "IV.\tDatensicherheit",
+        "V.\tKeine Pflicht zur Bereitstellung personenbezogener Daten",
+        "VI.\tKeine automatisierte Entscheidungsfindung (einschließlich Profiling)",
+        "VII.\tSpeicherdauer und Datenlöschung",
+        "VIII.\tZusammenarbeit mit Auftragsverarbeitern",
+        "IX.\tWeitergabe an Dritte",
+        "X.\tVoraussetzungen der Weitergabe von personenbezogenen Daten in Drittländer",
+        "XI.\tÜbermittlung personenbezogener Daten an Dritte; Rechtfertigungsgrundlage",
+        "XII.\tAktualität und Änderung der Datenschutzerklärung",
+        "B.\tEinzelne Datenverarbeitungssituationen auf unserer Website",
+        "I.\tErhebung personenbezogener Daten bei Besuch unserer Website",
+        "II.\tZusätzliche Datenerhebung bei weiteren Funktionen und Angeboten unserer Website",
+        "Kontaktieren Sie uns"
+      ],
+      "total_images": 2,
+      "images_without_alt": 0,
+      "internal_links": 617,
+      "external_links": 30,
+      "total_links": 652,
+      "open_graph_tags": {
+        "og:site_name": "https://www.tln-werbemittel.de/",
+        "og:title": "Datenschutz",
+        "og:description": "Datenschutz",
+        "og:url": "https://www.tln-werbemittel.de/datenschutz/",
+        "og:type": "website",
+        "og:image": "https://www.tln-werbemittel.de/out/tln/img/defaultOgImage.png"
+      },
+      "schema_markup_count": 0,
+      "viewport_meta": "width=device-width, initial-scale=1"
+    },
+    {
+      "url": "https://www.tln-werbemittel.de/kontakt",
+      "status_code": 503,
+      "response_time": 5.106498,
+      "page_size": 299,
+      "encoding": "iso-8859-1",
+      "title": "503 Service Unavailable",
+      "title_length": 23,
+      "meta_description": null,
+      "meta_description_length": 0,
+      "meta_keywords": null,
+      "canonical_url": null,
+      "language": null,
+      "h1_tags": [
+        "Service Unavailable"
+      ],
+      "h2_tags": [],
+      "h3_tags": [],
+      "total_images": 0,
+      "images_without_alt": 0,
+      "internal_links": 0,
+      "external_links": 0,
+      "total_links": 0,
+      "open_graph_tags": {},
+      "schema_markup_count": 0,
+      "viewport_meta": null
+    }
+  ]
+}

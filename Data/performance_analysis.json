@@ -1,0 +1,28 @@
+{
+  "performance_metrics": {
+    "avg_response_time": 0.49699727694193524,
+    "min_response_time": 0.4404170513153076,
+    "max_response_time": 0.5301907062530518,
+    "page_size_bytes": 528634,
+    "page_size_kb": 516.244140625,
+    "content_encoding": "gzip",
+    "uses_compression": true,
+    "cache_headers": {
+      "cache_control": "no-store, no-cache, must-revalidate",
+      "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+      "etag": "Not set",
+      "last_modified": "Not set"
+    },
+    "security_headers": {
+      "strict_transport_security": "Not set",
+      "x_content_type_options": "Not set",
+      "x_frame_options": "Not set",
+      "x_xss_protection": "Not set",
+      "content_security_policy": "Not set"
+    },
+    "http_version": "HTTP/1.1",
+    "server": "cloudflare",
+    "cdn": true
+  },
+  "pagespeed_insights": {}
+}
